@@ -1,3 +1,8 @@
 export default function Home() {
-  return <div>Hello, World!</div>
+  return <div className="">
+      <button>
+          Bonsoir
+      </button>
+      <input/>
+  </div>
 }
